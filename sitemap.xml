@@ -1,54 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>/contacts.html</loc>
+        <loc>https://vexeroo.vercel.app/app.html</loc>
     </url>
     <url>
-        <loc>/continue.html</loc>
+        <loc>https://vexeroo.vercel.app/contacts.html</loc>
     </url>
     <url>
-        <loc>/general-marketplace.html</loc>
+        <loc>https://vexeroo.vercel.app/continue.html</loc>
     </url>
     <url>
-        <loc>/</loc>
+        <loc>https://vexeroo.vercel.app/general-marketplace.html</loc>
     </url>
     <url>
-        <loc>/index-app.html</loc>
+        <loc>https://vexeroo.vercel.app/</loc>
     </url>
     <url>
-        <loc>/init.html</loc>
+        <loc>https://vexeroo.vercel.app/init.html</loc>
     </url>
     <url>
-        <loc>/login.html</loc>
+        <loc>https://vexeroo.vercel.app/login.html</loc>
     </url>
     <url>
-        <loc>/pricing.html</loc>
+        <loc>https://vexeroo.vercel.app/pricing.html</loc>
     </url>
     <url>
-        <loc>/product.html</loc>
+        <loc>https://vexeroo.vercel.app/privacy_policy.html</loc>
     </url>
     <url>
-        <loc>/projects.html</loc>
+        <loc>https://vexeroo.vercel.app/product.html</loc>
     </url>
     <url>
-        <loc>/services.html</loc>
+        <loc>https://vexeroo.vercel.app/services.html</loc>
     </url>
     <url>
-        <loc>/shopping-cart.html</loc>
+        <loc>https://vexeroo.vercel.app/shopping-cart.html</loc>
     </url>
     <url>
-        <loc>/signup.html</loc>
+        <loc>https://vexeroo.vercel.app/signup.html</loc>
     </url>
     <url>
-        <loc>/team.html</loc>
+        <loc>https://vexeroo.vercel.app/team.html</loc>
     </url>
     <url>
-        <loc>/testimonials.html</loc>
+        <loc>https://vexeroo.vercel.app/terms_and_conditions.html</loc>
     </url>
     <url>
-        <loc>/unlock.html</loc>
+        <loc>https://vexeroo.vercel.app/testimonials.html</loc>
     </url>
     <url>
-        <loc>/with.html</loc>
+        <loc>https://vexeroo.vercel.app/unlock.html</loc>
+    </url>
+    <url>
+        <loc>https://vexeroo.vercel.app/with.html</loc>
+    </url>
+    <url>
+        <loc>https://vexeroo.vercel.app/your_products.html</loc>
     </url>
 </urlset>
